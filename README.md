@@ -14,10 +14,10 @@ Learn the data analysis process of wrangling, exploring, analyzing, and communic
 * Pandas and AND NumPy:Case Study 1 & 2
 * Programming Workflow for Data Analysis
 
-### Project 1: Explore Weather Trends
+### Project 1 - Explore Weather Trends
 This project introduces the SQL and how to download data from a database. I’ll analyze local and global temperature data and compare the temperature trends where I live to overall global temperature trends.
 
-### Project 2: Investigate a Dataset
+### Project 2 - Investigate a Dataset
 In this project, I’ll choose one of Udacity’s curated datasets and investigate it using NumPy and pandas. I’ll complete the entire data analysis process, starting by posing a question and finishing by sharing my findings.
 
 
@@ -39,7 +39,7 @@ Learn how to apply inferential statistics and probability to real-world scenario
 * Multiple Linear Regression
 * Logistic Regression
 
-### Project 3: Analyze A/B Test Results
+### Project 3 - Analyze A/B Test Results
 For this project, I'll be working to understand the results of an A/B test run by an e-commerce website. I’ll use statistical techniques to answer questions about the data and report my conclusions and recommendations in a report.
 
 
@@ -60,7 +60,7 @@ Learn the data wrangling process of gathering, assessing, and cleaning data. Lea
   * Clean data using Python and pandas.
   * Test cleaning code visually and programmatically using Python.
   
-### Project 4: Wrangle and Analyze Data
+### Project 4 - Wrangle and Analyze Data
 Real-world data rarely comes clean. Using Python, I’ll gather data from a variety of sources, assess its quality and tidiness, then clean it. I’ll document my wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python and SQL.
 
 
@@ -75,7 +75,7 @@ Learn to apply visualization principles to the data analysis process. Explore da
 * Explanatory Visulizations
 * Visulization Case Study
 
-### Poject 5: Communicate Data Findings
-I'll choose a dataset and perform an exploratory data analysis using Python. Then, create a presentation with explanatory plots that conveys my findings
+### Poject 5 - Communicate Data Findings
+I'll choose a dataset and perform an exploratory data analysis using Python. Then, create a presentation with explanatory plots that conveys my findings.
 
 
